@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 Summary:	Execute a command or replace text, triggered by an event in irssi
 Summary(hu.UTF-8):	Parancs végrehajtása vagy szöveg cseréje irssi események bekövetkeztekor
 Name:		irssi-script-trigger
